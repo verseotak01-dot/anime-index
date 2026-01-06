@@ -50,9 +50,9 @@ jobs:
       - name: Sync to verseotak01-dot
         run: |
           git config --global --unset http.https://github.com/.extraheader || true
-          git remote add mirror3 https://verseotak01-dot:${{ secrets.PAT_MIRROR_3 }}@github.com/verseotak01-dot/anime-index.git
-          git push mirror3 main --force
-          git remote remove mirror3
+          git remote add mirror4 https://verseotak01-dot:${{ secrets.PAT_MIRROR_4 }}@github.com/verseotak01-dot/anime-index.git
+          git push mirror4 main --force
+          git remote remove mirror4
 
       # =========================================================
       # 4️⃣ MIRROR 4: verseotak01-dot
@@ -60,9 +60,9 @@ jobs:
       - name: Sync to verseotak01-dot
         run: |
           git config --global --unset http.https://github.com/.extraheader || true
-          git remote add mirror4 https://verseotak01-dot:${{ secrets.PAT_MIRROR_4 }}@github.com/verseotak01-dot/anime-index.git
-          git push mirror4 main --force
-          git remote remove mirror4
+          git remote add mirror3 https://verseotak01-dot:${{ secrets.PAT_MIRROR_3 }}@github.com/verseotak01-dot/anime-index.git
+          git push mirror3 main --force
+          git remote remove mirror3
 
       # =========================================================
       # 5️⃣ MIRROR 5: OtaKuNexa
