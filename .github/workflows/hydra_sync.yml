@@ -19,7 +19,8 @@ jobs:
       - name: ‎otakuhero99-lang
         run: |
           # ⬇️ REPLACE 'DevCache99' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
-          git remote add mirror1 https://otakuhero99-lang:${{ secrets.PAT_MIRROR_1 }}@github.com/‎otakuhero99-lang/anime-index.git
+          git remote add mirror1 https://otakuhero99-lang:${{ secrets.PAT_MIRROR_1 }}@github.com/otakuhero99-lang/anime-index.git
+
           git push mirror1 main --force
           git remote remove mirror1
 
