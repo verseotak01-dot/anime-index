@@ -19,7 +19,7 @@ jobs:
       - name: ‎otakuhero99-lang
         run: |
           # ⬇️ REPLACE 'DevCache99' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
-          git remote add mirror1 https://otakuhero99-lang:${{ secrets.PAT_MIRROR_1 }}@github.com/DevCache99/anime-index.git
+          git remote add mirror1 https://otakuhero99-lang:${{ secrets.PAT_MIRROR_1 }}@github.com/‎otakuhero99-lang/anime-index.git
           git push mirror1 main --force
           git remote remove mirror1
 
@@ -29,7 +29,7 @@ jobs:
       - name: balwindar-wq
         run: |
           # ⬇️ REPLACE 'ProjectRonin' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
-          git remote add mirror2 https://balwindar-wq:${{ secrets.PAT_MIRROR_2 }}@github.com/ProjectRonin/anime-index.git
+          git remote add mirror2 https://balwindar-wq:${{ secrets.PAT_MIRROR_2 }}@github.com/balwindar-wq/anime-index.git
           git push mirror2 main --force
           git remote remove mirror2
 
@@ -39,7 +39,7 @@ jobs:
       - name: otakverse01
         run: |
           # ⬇️ REPLACE 'NeonStack' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
-          git remote add mirror3 https://otakverse01:${{ secrets.PAT_MIRROR_3 }}@github.com/NeonStack/anime-index.git
+          git remote add mirror3 https://otakverse01:${{ secrets.PAT_MIRROR_3 }}@github.com/otakverse01/anime-index.git
           git push mirror3 main --force
           git remote remove mirror3
 
@@ -49,7 +49,7 @@ jobs:
       - name: verseotak01-dot
         run: |
           # ⬇️ REPLACE 'DevCache99' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
-          git remote add mirror1 https://verseotak01-dot:${{ secrets.PAT_MIRROR_4 }}@github.com/DevCache99/anime-index.git
+          git remote add mirror1 https://verseotak01-dot:${{ secrets.PAT_MIRROR_4 }}@github.com/verseotak01-dot/anime-index.git
           git push mirror1 main --force
           git remote remove mirror1
 
@@ -59,7 +59,7 @@ jobs:
       - name: OtaKuNexa
         run: |
           # ⬇️ REPLACE 'ProjectRonin' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
-          git remote add mirror2 https://OtaKuNexa:${{ secrets.PAT_MIRROR_5 }}@github.com/ProjectRonin/anime-index.git
+          git remote add mirror2 https://OtaKuNexa:${{ secrets.PAT_MIRROR_5 }}@github.com/OtaKuNexa/anime-index.git
           git push mirror2 main --force
           git remote remove mirror2
 
@@ -69,7 +69,7 @@ jobs:
       - name: hokaiwatch
         run: |
           # ⬇️ REPLACE 'NeonStack' WITH YOUR ACTUAL BACKUP USERNAME ⬇️
-          git remote add mirror3 https://hokaiwatch:${{ secrets.PAT_MIRROR_6 }}@github.com/NeonStack/anime-index.git
+          git remote add mirror3 https://hokaiwatch:${{ secrets.PAT_MIRROR_6 }}@github.com/hokaiwatch/anime-index.git
           git push mirror3 main --force
           git remote remove mirror3
           
