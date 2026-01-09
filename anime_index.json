@@ -27,6 +27,11 @@
           ]
         },
         "language": "No Audio",
+        "mal_ids": [
+          "51009",
+          "48561",
+          "40748"
+        ],
         "specials": {},
         "total_episodes": 0
       }
@@ -148,6 +153,9 @@
           ]
         },
         "language": "Hindi",
+        "mal_ids": [
+          "20583"
+        ],
         "specials": {},
         "total_episodes": 25
       },
@@ -265,6 +273,9 @@
           ]
         },
         "language": "Hindi",
+        "mal_ids": [
+          "20583"
+        ],
         "specials": {},
         "total_episodes": 0
       },
@@ -316,6 +327,9 @@
           ]
         },
         "language": "Hindi",
+        "mal_ids": [
+          "20583"
+        ],
         "specials": {},
         "total_episodes": 10
       },
@@ -381,6 +395,11 @@
           ]
         },
         "language": "Hindi",
+        "mal_ids": [
+          "20583",
+          "28891",
+          "32935"
+        ],
         "specials": {},
         "total_episodes": 0
       }
@@ -391,6 +410,11 @@
       "1": {
         "batches": {},
         "language": "English/Sub",
+        "mal_ids": [
+          "40748",
+          "51009",
+          "48561"
+        ],
         "specials": {
           "Special_1": {
             "file": 239,
@@ -402,6 +426,11 @@
       "2": {
         "batches": {},
         "language": "English/Sub",
+        "mal_ids": [
+          "40748",
+          "51009",
+          "48561"
+        ],
         "specials": {
           "Special_1": {
             "file": 267,
@@ -524,6 +553,9 @@
           ]
         },
         "language": "Hindi | Official",
+        "mal_ids": [
+          "18234"
+        ],
         "specials": {},
         "total_episodes": 0
       }
@@ -589,6 +621,9 @@
           ]
         },
         "language": "Hindi",
+        "mal_ids": [
+          "62512"
+        ],
         "specials": {},
         "total_episodes": 0
       },
@@ -650,6 +685,9 @@
           ]
         },
         "language": "Hindi",
+        "mal_ids": [
+          "62512"
+        ],
         "specials": {},
         "total_episodes": 0
       }
@@ -759,6 +797,9 @@
           ]
         },
         "language": "English & Japanese",
+        "mal_ids": [
+          "23755"
+        ],
         "specials": {},
         "total_episodes": 24
       }
@@ -868,6 +909,9 @@
           ]
         },
         "language": "Hindi",
+        "mal_ids": [
+          "23273"
+        ],
         "specials": {},
         "total_episodes": 0
       }
