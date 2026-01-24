@@ -377,7 +377,8 @@
       "59062"
     ],
     "languages": [
-      "Hindi"
+      "Hindi",
+      "Multi Audio"
     ]
   },
   {
@@ -746,10 +747,12 @@
   {
     "title": "Naruto",
     "mal_ids": [
-      "20"
+      "20",
+      "2144"
     ],
     "languages": [
-      "English"
+      "English",
+      "Multi Audio"
     ]
   },
   {
@@ -1201,6 +1204,107 @@
     "mal_ids": [
       "16870",
       "1735"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Naruto Shippuden the Movie 6: Road to Ninja",
+    "mal_ids": [
+      "13667",
+      "1735"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Naruto Shippuden the Movie 5: Blood Prison",
+    "mal_ids": [
+      "10589",
+      "1735"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Naruto Shippuden the Movie 4: The Lost Tower",
+    "mal_ids": [
+      "1735",
+      "8246"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Naruto Shippuden the Movie 3: The Will of Fire",
+    "mal_ids": [
+      "1735",
+      "6325"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Naruto Shippuden the Movie 2: Bonds",
+    "mal_ids": [
+      "1735",
+      "4437"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Naruto Shippuden the Movie 1",
+    "mal_ids": [
+      "1735",
+      "2472"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Naruto the Movie 2: Legend of the Stone of Gelel",
+    "mal_ids": [
+      "20",
+      "936"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Naruto the Movie 1: Ninja Clash in the Land of Snow",
+    "mal_ids": [
+      "20",
+      "442"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Gintama: The Movie",
+    "mal_ids": [
+      "7472",
+      "918"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya",
+    "mal_ids": [
+      "15335",
+      "7472",
+      "918"
     ],
     "languages": [
       "Multi Audio"
